@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 Here is my [CV](http://jinyan-sivan.github.io/files/Jin_Yan_CV.pdf){:target="_blank"}. 
