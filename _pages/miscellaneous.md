@@ -3,6 +3,10 @@ layout: archive
 title: ""
 permalink: /miscellaneous/
 author_profile: true
-redirect_from:
-  - /resume
 ---
+
+## Habits
+I enjoy film, cooking and taking photos of nature in my spare time.
+
+## Galaries
+Waiting to update.
