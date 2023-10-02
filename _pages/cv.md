@@ -8,5 +8,5 @@ redirect_from:
 ---
 {% include base_path %}
 
-Here is my CV:
-<iframe src="http://jinyan-sivan.github.io/files/Jin_Yan_CV.pdf" width="100%" height="500px"></iframe>
+Here is my [CV](http://jinyan-sivan.github.io/files/Jin_Yan_CV.pdf):
+<iframe src="http://jinyan-sivan.github.io/files/Jin_Yan_CV.pdf" width="100%" height="800px" style="border: none;"></iframe>
