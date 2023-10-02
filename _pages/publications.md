@@ -27,4 +27,4 @@ _September 2022 – January 2023_
   
 - **Tools:** Lumerical FDTD solutions, MATLAB, Python.
 
-- **Accomplishments:** Completed a research presentation. You can view the report in Chinese [here](../files/report.pdf).
+- **Accomplishments:** Completed a research presentation. You can view the report in Chinese [here](https://jinyan-sivan.github.io/files/report.pdf).
