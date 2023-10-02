@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## Objective  
 Actively seeking a Ph.D. position in bioimaging or machine learning.
 
