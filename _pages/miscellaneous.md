@@ -26,10 +26,10 @@ I enjoy film, cooking and taking photos of nature in my spare time.
 
 <div class="gallery-wrapper">
     <div class="gallery-container">
-        <img src="/images/snow1.bmp" alt="Snow Image 1" class="gallery-image">
-        <img src="/images/snow2.bmp" alt="Snow Image 2" class="gallery-image">
-        <img src="/images/snow3.bmp" alt="Snow Image 3" class="gallery-image">
-        <img src="/images/snow4.bmp" alt="Snow Image 4" class="gallery-image">
+        <img src="/images/hubei1.jpg" alt="Snow Image 1" class="gallery-image">
+        <img src="/images/hubei2.jpg" alt="Snow Image 2" class="gallery-image">
+        <img src="/images/hubei3.jpg" alt="Snow Image 3" class="gallery-image">
+        <img src="/images/hubei4.jpg" alt="Snow Image 4" class="gallery-image">
     </div>
 </div>
 <input type="range" min="0" max="450" value="0" class="slider" id="myRange">
