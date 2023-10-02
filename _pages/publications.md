@@ -19,17 +19,12 @@ author_profile: true
 ## Research Projects
 ---
 
-### Huazhong University of Science and Technology
-_Wuhan, China_
-
-**Research Assistant in Prof. Zhenyu Yang’s Group**  
+### Metalens-based Optical Multiparameter Detection
+_Supervisor:_ Prof. [Zhenyu Yang](http://nanophotonics.oei.hust.edu.cn/info/1101/1183.htm) 
 _September 2022 – January 2023_
-
-_Project:_ **Metalens-based Optical Multiparameter Detection**  
-_Supervisor:_ Prof. Zhenyu Yang
 
 - **Description:** Designed metalens to reconstruct the Stokes parametrization of light based on PB phase modulation, Hartmann-shack wavefront detection principle. The incident light intensity was detected by 4~6 different polarization-sensitive lenses to reconstruct the Stokes parameter of the incident light.
   
 - **Tools:** Lumerical FDTD solutions, MATLAB, Python.
 
-- **Accomplishments:** Completed a research presentation.
+- **Accomplishments:** Completed a research presentation. You can view the report in Chinese [here](jinyan-sivan.github.io/files/report.pdf).
