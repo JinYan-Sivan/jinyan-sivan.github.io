@@ -20,5 +20,5 @@ I enjoy film, cooking and taking photos of nature in my spare time.
   </div>
 </div>
 <div style="text-align: center;">
-  Sivan and Amily enjoyed their skiing trip.
+  Sivan and Amily enjoyed their skiing advanture.
 </div>
