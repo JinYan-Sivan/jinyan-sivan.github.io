@@ -43,12 +43,8 @@ _June 2023 - October 2023_
 _Supervisor_ : Prof. [Zhenyu Yang](http://nanophotonics.oei.hust.edu.cn/info/1101/1183.htm) 
 _March 2023 – now_
 
-- **Description:** In this project, I explored the rotation zoom rule of a single metalens array:
+- **Description:** In this project, I explored the rotation zoom rule of a single metalens array: $$ F(\theta) = \frac{\pi}{\theta} \times F_0 $$, where $$ F(\theta) $$ is the array's EFFL, $$ F_0 $$ is the minimum focal length, and $$ \theta $$ is the rotation angle. Then I designed a 3-lens optical system whose BFL is a fixed number.
 
-<center>$$ F(\theta) = \frac{\pi}{\theta} \times F_0 $$<center>
-
-where $$ F(\theta) $$ is the array's EFFL, $$ F_0 $$ is the minimum focal length, and $$ \theta $$ is the rotation angle. Then I designed a 3-lens optical system whose BFL is a fixed number.
-  
 - **Tools:** Lumerical FDTD solutions, MATLAB
 
 - **Accomplishments:** Still preparing the manuscript.
