@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+## CV
 
 Here is my [CV](../files/Jin_Yan_CV.pdf){:target="_blank"} for your further reference. 
 
