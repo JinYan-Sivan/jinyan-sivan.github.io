@@ -44,9 +44,9 @@ _Supervisor_ : Prof. [Zhenyu Yang](http://nanophotonics.oei.hust.edu.cn/info/110
 _March 2023 – now_
 
 - **Description:** In this project, I explored the rotation zoom rule of a single metalens array:
-$$
-F(\theta) = \frac{\pi}{\theta} \times F_0
-$$
+
+<center>$$ F(\theta) = \frac{\pi}{\theta} \times F_0 $$<center>
+
 where $$ F(\theta) $$ is the array's EFFL, $$ F_0 $$ is the minimum focal_length, and $$ \theta $$ is the rotation angle. Then I designed a 3-lens optical system whose BFL is a fixed number.
   
 - **Tools:** Lumerical FDTD solutions, MATLAB
