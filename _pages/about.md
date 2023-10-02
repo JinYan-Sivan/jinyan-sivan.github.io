@@ -18,9 +18,9 @@ I am Jin Yan, currently an four-year undergraduate student majoring in Electrica
 My pevious research interests have been largely centered around the design and fabrication of metasurfaces, as well as the application of machine learning in biomedical fields.
 
 ## Educational Background  
-- **B.Sc. in Opto-electronic Information Science and Engineering**  
-  *Sept. 2020 — June 2024*  
-  [School of Optical and Electronic Information, Huazhong University of Science and Technology](http://oei.hust.edu.cn/) (Expected Graduation)  
+- **B.Sc. in Opto-electronic Information Science and Engineering**   
+  [School of Optical and Electronic Information, Huazhong University of Science and Technology](http://oei.hust.edu.cn/)
+  *Sept. 2020 — June 2024* (Expected Graduation)  
 
 ## Honors & Recognitions  
 - **Science & Technology Innovation Scholarship**: Top 5%, 2022  
@@ -32,3 +32,6 @@ My pevious research interests have been largely centered around the design and f
 - **Research Assistant**: [Nanophotonics Laboratory](http://nanophotonics.oei.hust.edu.cn/) 2021-2023
 - **Research Assistant**: [UCSD](https://pengtaoxie.github.io/) 2023-now
 - **Member**: Student Union of Huazhong University of Science and Technology 
+- **Member**: Rural volunteer teaching team
+- **Member**: School library volunteer
+- **Member**: School hospital volunteer
