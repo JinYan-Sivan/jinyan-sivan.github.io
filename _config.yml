@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jin Yan"
+title                    : "Jin Yan's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jin Yan"
 description              : &description "Undergraduate in Electrical Engineering"
