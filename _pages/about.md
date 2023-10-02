@@ -36,4 +36,4 @@ My pevious research interests have been largely centered around the design and f
 - **Member**: School hospital volunteer
 
 ## Certificates
-- **MITxPRO**:[Quantum Algorithms for Cybersecurity, Chemistry and Optimization](https://xpro.mit.edu/certificate/6eb10c4d-6b7e-4dc9-a9b0-4ca53b91af01/)
+- **MITxPRO**: [Quantum Algorithms for Cybersecurity, Chemistry and Optimization](https://xpro.mit.edu/certificate/6eb10c4d-6b7e-4dc9-a9b0-4ca53b91af01/)
