@@ -19,7 +19,7 @@ author_profile: true
 ## Research Projects
 ---
 
-# Huazhong University of Science and Technology
+### Huazhong University of Science and Technology
 _Wuhan, China_
 
 **Research Assistant in Prof. Zhenyu Yang’s Group**  
