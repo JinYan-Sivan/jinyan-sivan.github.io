@@ -23,64 +23,48 @@ I enjoy film, cooking and taking photos of nature in my spare time.
   Sivan and Amily enjoyed their skiing advanture in an icy world. Then they made a cute little snowman.
 </div>
 
-
+---
 <div class="gallery-wrapper">
-    <div class="gallery-container">
-        <figure>
-            <img src="/images/hubei1.jpg" alt="Hubei Image 1" class="gallery-image">
-        </figure>
-        <figure>
-            <img src="/images/hubei2.jpg" alt="Hubei Image 2" class="gallery-image">
-        </figure>
-        <figure>
-            <img src="/images/hubei3.jpg" alt="Hubei Image 3" class="gallery-image">
-        </figure>
-        <figure>
-            <img src="/images/hubei4.jpg" alt="Hubei Image 4" class="gallery-image">
-        </figure>
+    <div class="gallery-container" id="galleryContainer">
+        <img src="/images/hubei1.jpg" alt="Hubei Image 1" class="gallery-image">
+        <img src="/images/hubei2.jpg" alt="Hubei Image 2" class="gallery-image">
+        <img src="/images/hubei3.jpg" alt="Hubei Image 3" class="gallery-image">
+        <img src="/images/hubei4.jpg" alt="Hubei Image 4" class="gallery-image">
     </div>
 </div>
 
-<input type="range" min="0" max="450" value="0" class="slider" id="myRange">
+<input type="range" min="1" max="100" value="1" class="slider" id="myRange">
 
-<center>Views in Wuhan</center>
+<center>你的配文</center>
 
 <style>
 .gallery-wrapper {
     width: 900px;
     overflow: hidden;
-    margin: 0 auto; /* for centering the gallery */
+    margin: 0 auto;
 }
 
 .gallery-container {
-    display: flex;
-    transition: margin-left 0.3s ease;
-}
-
-figure {
-    margin: 0;
-    position: relative;
-    width: 450px;
+    width: 1800px;
+    transition: transform 0.3s ease;
 }
 
 .gallery-image {
     width: 450px;
     height: auto;
+    float: left;
 }
 
 .slider {
     width: 80%;
-    margin: 20px auto; /* for centering the slider */
+    margin: 20px auto;
     display: block;
 }
 </style>
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
-$(document).ready(function() {
-    $("#myRange").on("input", function() {
-        let value = $(this).val();
-        $(".gallery-container").css("margin-left", -value + "px");
-    });
+document.getElementById('myRange').addEventListener('input', function(e) {
+    var value = e.target.value;
+    document.getElementById('galleryContainer').style.transform = 'translateX(' + -(value * 9) + 'px)';
 });
 </script>
