@@ -35,7 +35,7 @@ I enjoy film, cooking and taking photos of nature in my spare time.
 
 <input type="range" min="1" max="100" value="1" class="slider" id="myRange">
 
-<center>你的配文</center>
+<center>The breathtaking views in Wuhan.</center>
 
 <style>
 .gallery-wrapper {
