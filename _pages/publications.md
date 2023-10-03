@@ -28,7 +28,7 @@ _September 2022 – January 2023_
 - **Tools:** Lumerical FDTD solutions, MATLAB, Python
 
 - **Accomplishments:** Completed a research presentation. You can view the report in Chinese [here](https://jinyan-sivan.github.io/files/report.pdf).
----
+
 ### Drug-Interaction Prediction based on Chain-of-Thought Prompting in GPT3.5
 _Supervisor_ : Prof. [Pengtao Xie](https://pengtaoxie.github.io/)
 _June 2023 - October 2023_
@@ -38,7 +38,7 @@ _June 2023 - October 2023_
 - **Tools:** Python
 
 - **Accomplishments:** I am trying to finish a paper. You can see the ongoing project [here](https://www.overleaf.com/read/jkmygbwkmrvc).
----
+
 ### Metalens-based rotating zoom lens set
 _Supervisor_ : Prof. [Zhenyu Yang](http://nanophotonics.oei.hust.edu.cn/info/1101/1183.htm) 
 _March 2023 – now_
