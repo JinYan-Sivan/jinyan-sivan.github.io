@@ -17,7 +17,7 @@ I am Jin Yan, currently a four-year undergraduate student majoring in Electrical
 My pevious research interests have been largely centered around the design and fabrication of metasurfaces, as well as the application of machine learning in biomedical fields.
 
 ## Educational Background  
-- **B.Sc. in Opto-electronic Information Science and Engineering**   
+- **B.E. in Opto-electronic Information Science and Engineering**   
   [School of Optical and Electronic Information, Huazhong University of Science and Technology](http://oei.hust.edu.cn/)
   *Sept. 2020 — June 2024* (Expected Graduation)  
 
