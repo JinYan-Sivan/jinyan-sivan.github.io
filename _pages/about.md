@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Objective  
-I am actively seeking a Ph.D. position in bioimaging or machine learning!
+## Current
+I am actively seeking a Ph.D. position in ECE!
 
 ## Brief Introduction  
 I am Jin Yan, currently a four-year undergraduate student majoring in Electrical Engineering at [Huazhong University of Science and Technology](https://www.hust.edu.cn/). From 2021 to 2023, I had the privilege to serve as a research assistant at the [Nanophotonics Laboratory](http://nanophotonics.oei.hust.edu.cn/), where I designed metalens array for rotary zoom and metalens array for light detection. In the summer of 2023 and onwards, I was fortunate to work under the guidance of [Prof. Xie at UCSD](https://pengtaoxie.github.io/) on a project that utilizes Chain-of-Thought (CoT) prompting to predict drug interactions.
