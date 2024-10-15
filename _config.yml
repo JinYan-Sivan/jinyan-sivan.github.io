@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jin Yan's Homepage"
 title_separator          : "-"
 name                     : &name "Jin Yan"
-description              : &description "Undergraduate in Electrical Engineering"
+description              : &description "PhD in Plasma Physics"
 url                      : https://jinyan-sivan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/jinyan-sivan.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Jin Yan"
   avatar           : "yj.png"
   bio              : "Stay Energetic!"
-  location         : "Wuhan, China"
+  location         : "Irvine, California, US"
   employer         :
 # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  jinyan_hust@outlook.com
+  email            :  jiny26@uci.edu
 # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
