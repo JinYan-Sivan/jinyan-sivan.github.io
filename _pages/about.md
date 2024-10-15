@@ -16,12 +16,12 @@ I am a PhD student in Physics at UC Irvine, specializing in plasma physics. I am
 ## Research Interests  
 My previous research interests have been largely centered around the design and fabrication of metasurfaces and the application of machine learning in physics fields.
 
-## Educational Background 
-- **Ph.D. in Plasma Physics**   
-  [Lee Nano-Optics Lab, Univesity of California, Irvine](https://sites.google.com/uci.edu/lee-lab/home)
-  *Sept. 2024 — Now*
-- **B.E. in Opto-electronic Information Science and Engineering**   
-  [School of Optical and Electronic Information, Huazhong University of Science and Technology](http://oei.hust.edu.cn/)
+## Educational Background  
+- **Ph.D. in Plasma Physics**  
+  [Lee Nano-Optics Lab, Univesity of California, Irvine](https://sites.google.com/uci.edu/lee-lab/home)  
+  *Sept. 2024 — Now*  
+- **B.E. in Opto-electronic Information Science and Engineering**  
+  [School of Optical and Electronic Information, Huazhong University of Science and Technology](http://oei.hust.edu.cn/)  
   *Sept. 2020 — June 2024*
 
 ## Honors & Recognitions  
