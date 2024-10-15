@@ -8,18 +8,21 @@ redirect_from:
   - /about.html
 ---
 ## Current
-I am actively seeking a Ph.D. position in ECE!
+I am currently a first-year Ph.D. student in Plasma Physics at UC, Irvine!
 
 ## Brief Introduction  
-I am Jin Yan, currently a four-year undergraduate student majoring in Electrical Engineering at [Huazhong University of Science and Technology](https://www.hust.edu.cn/). From 2021 to 2023, I had the privilege to serve as a research assistant at the [Nanophotonics Laboratory](http://nanophotonics.oei.hust.edu.cn/), where I designed metalens array for rotary zoom and metalens array for light detection. In the summer of 2023 and onwards, I was fortunate to work under the guidance of [Prof. Xie at UCSD](https://pengtaoxie.github.io/) on a project that utilizes Chain-of-Thought (CoT) prompting to predict drug interactions.
+I am a PhD student in Physics at UC Irvine, specializing in plasma physics. I am working under the supervision of [Professor Howard Lee](https://sites.google.com/uci.edu/lee-lab/home) at UCI. My research interests lie in nanophotonics, optics, and machine learning. Before joining UCI, I earned my bachelor's degree in Opto-Electronic Information Science and Technology from Huazhong University of Science and Technology in Wuhan, China. During my undergraduate studies, I worked with Professor Zhenyu Yang in the [Nanophotonics Laboratory](http://nanophotonics.oei.hust.edu.cn/) on projects involving nanophotonics, metasurfaces, and inverse design using deep learning.
 
 ## Research Interests  
-My previous research interests have been largely centered around the design and fabrication of metasurfaces, as well as the application of machine learning in biomedical fields.
+My previous research interests have been largely centered around the design and fabrication of metasurfaces and the application of machine learning in physics fields.
 
-## Educational Background  
+## Educational Background 
+- **Ph.D. in Plasma Physics**   
+  [Lee Nano-Optics Lab, Univesity of California, Irvine](https://sites.google.com/uci.edu/lee-lab/home)
+  *Sept. 2024 — Now*
 - **B.E. in Opto-electronic Information Science and Engineering**   
   [School of Optical and Electronic Information, Huazhong University of Science and Technology](http://oei.hust.edu.cn/)
-  *Sept. 2020 — June 2024* (Expected Graduation)  
+  *Sept. 2020 — June 2024*
 
 ## Honors & Recognitions  
 - **Science & Technology Innovation Scholarship**: Top 5%, 2022  
